@@ -1,0 +1,27 @@
+{
+  "name": "test-guide",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@storybook/addon-actions": "^6.1.10",
+    "@storybook/addon-backgrounds": "^6.1.10",
+    "@storybook/addon-essentials": "^6.1.10",
+    "@storybook/addon-knobs": "^6.1.10",
+    "@storybook/addon-links": "^6.1.10",
+    "@storybook/vue": "^6.1.10",
+    "babel-loader": "^8.2.2"
+  }
+}
