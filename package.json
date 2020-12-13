@@ -11,7 +11,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.8.1",
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
